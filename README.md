@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BlytheThompson
-- 👀 I’m interested in making games on the web.
-- 🌱 I’m currently learning computer science at JWU Univesity
-- 💞️ I’m looking to collaborate on web (HTML, Node.js, Javascript, React)
+- 👋 Hi, I’m @BlytheThompson, CEO of Blythe Solutions
+- 👀 I’m interested in making applications for the web.
+- 🌱 I’m currently teaching myself computer science at home!
+- 💞️ I’m looking to collaborate on web projects (HTML, Node.js, Javascript, React)
 - 📫 How to reach me email me at 9911secretariat@gmail.com
 
 <!---
